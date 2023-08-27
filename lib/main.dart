@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
                 width: 150.0,
                 height: 20.0,
                 child: Divider(
-                  color: Colors.redAccent.shade400,
+                  color: Colors.redAccent.shade200,
                 ),
               ),
               Card(
